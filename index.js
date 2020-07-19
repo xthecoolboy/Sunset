@@ -817,4 +817,4 @@ client.commands = new Discord.Collection();
   });
 
 
-client.login(token)
+client.login(process.env.BOT_TOKEN);
