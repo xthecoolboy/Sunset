@@ -23,7 +23,6 @@ const announcement = require("./data/brain/announcement.json");
 const game = require("./data/brain/game.json");
 const colors = require("./data/brain/colors.json")
 const prefix = data.prefix
-const token = data.token
 const DBL = require("dblapi.js")
 const pusage = require('pidusage')
 const DBLToken = data.dbltoken
